@@ -64,3 +64,8 @@ Implement address whitelist/blacklist logic.
 
 Obfuscation support or integration with packers like ConfuserEx.
 
+
+
+
+SCAN RESULTS: https://websec.net/scanner/result/525e6e46-a10f-4c62-ab50-0eb1846f2256
+
